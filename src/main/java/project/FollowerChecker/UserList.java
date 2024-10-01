@@ -1,4 +1,4 @@
-package project.follower;
+package project.FollowerChecker;
 
 import java.util.List;
 
