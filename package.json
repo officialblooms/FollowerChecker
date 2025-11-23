@@ -1,0 +1,23 @@
+{
+  "name": "followerchecker",
+  "version": "1.0.0",
+  "description": "Amateur coding project that reads my Instagram's followers and following list and prints out a list of people that are not following me back and I am not following back.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialblooms/FollowerChecker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officialblooms/FollowerChecker/issues"
+  },
+  "homepage": "https://github.com/officialblooms/FollowerChecker#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}

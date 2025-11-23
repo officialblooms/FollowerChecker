@@ -1,5 +1,4 @@
 following.json
 followers_1.json
 .vscode
-.idea
-target/
+node_modules
