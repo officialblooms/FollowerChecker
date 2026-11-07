@@ -4,7 +4,7 @@ Amateur coding project that reads my Instagram's followers and following list an
 
 # Obtaining Followers and Following List
 
-You'll need to request a .json file of the list of followers and people you follow from Instagram, and name them `followers_1.json` and `following.json`, respectively. 
+You'll need to request a .json file of the list of followers and people you follow from Instagram. 
 
 To request it, go to the [Meta Account Center](https://accountscenter.instagram.com/?theme=dark&entry_point=app_settings) > Your information and permissions > Export your information > Create export > `<username>` Instagram > Export to device.
 
