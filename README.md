@@ -4,7 +4,7 @@ Amateur coding project that reads my Instagram's followers and following list an
 
 # Obtaining Followers and Following List
 
-You'll need to request a .json file of the list of followers and people you follow from Instagram. 
+You'll need to request a .json file of the list of followers and people you follow from Instagram.
 
 To request it, go to the [Meta Account Center](https://accountscenter.instagram.com/?theme=dark&entry_point=app_settings) > Your information and permissions > Export your information > Create export > `<username>` Instagram > Export to device.
 
@@ -15,6 +15,11 @@ Then change "Customize Information" to only include "Followers and Following", t
 Clone this project into your local machine by doing:
 ```bash
 git clone https://github.com/officialblooms/FollowerChecker
+```
+
+Then
+```bash
+npm install
 ```
 
 Make sure that [Java](https://www.java.com/download/ie_manual.jsp) and [OpenJDK](https://openjdk.org/install/) are installed on your machine.
@@ -28,5 +33,5 @@ Then go to ```localhost:8000/index.html``` and interact with the buttons to see 
 # Changelog
 10/1/24: Minor bug fixes
 11/22/25: Updated from a horrible `pom.xml` model to a full-stack configuration with configured API calls and DOM manipulation
-11/6/26: Updated README.md
+11/6/26: Updated README.md + `/data` directory
 
